@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Timothy Tien
 
 #### Your section leader's name
 
-TODO
+Logan Muhlberg
 
 #### Project title
 
-TODO
+Statistical Tester
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Started learning matplotlib and pandas libraries
 
 #### What have you not done for your project yet?
 
-TODO
+Finished coding the final project
 
 #### What problems, if any, have you encountered?
 
-TODO
+N/A
